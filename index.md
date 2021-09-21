@@ -4,6 +4,6 @@ I leave my previous job to pursue study and graduated from Coventry University i
 
 ## Html and CSS projects
 
-Studied at FreeCodeCamp and Erb course, I made serveral webpages by css and html. The website is build with basic tag and table, image, form, imbeded youtube, input tag.
+Studied at FreeCodeCamp and Erb course, I made serveral webpages by css and html and uploaded them to code.pen.io. The website is build with basic tag and table, image, form, imbeded youtube, input tag.
 With the help of css, most of them are responsive to show smoothly on different screens. Css effect like hover, viewpoint setting are added.
 Beside, I also set up a personal portfolio as seen powered by github page.

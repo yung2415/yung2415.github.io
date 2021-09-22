@@ -10,6 +10,6 @@ Studied at FreeCodeCamp and Erb course, I made serveral webpages by css and html
 With the help of css, most of them are responsive and able to show smoothly on different screens. Css effect like hover, viewpoint setting are added.
 Beside, I also set up a personal portfolio as seen powered by github page.
 Below are Survey Form , Product Landing Page and Tribute page I created.
-  <p> <a href="https://codepen.io/yung2415/pen/XWRajzW" target = "_blank"><img src="https://i.ibb.co/KmzJ70Z/Survey-form.jpg" alt="Survey-form" border="0" /></a>
-    <a href="https://codepen.io/yung2415/pen/WNjEwzv" target = "_blank"><img src="https://i.ibb.co/BgmwwXj/Tp.jpg" alt="Tp" border="0" /></a>
-    <a href="https://codepen.io/yung2415/pen/wvdqJqj" target = "_blank"><img src="https://i.ibb.co/NTSgmrs/pl.jpg" alt="pl" border="0" /></a></p>
+  <p> <a href="https://codepen.io/yung2415/pen/XWRajzW" target = "_blank"><img class = "display-image" src="https://i.ibb.co/KmzJ70Z/Survey-form.jpg" alt="Survey-form" border="0" /></a>
+    <a href="https://codepen.io/yung2415/pen/WNjEwzv" target = "_blank"><img class = "display-image" src="https://i.ibb.co/BgmwwXj/Tp.jpg" alt="Tp" border="0" /></a>
+    <a href="https://codepen.io/yung2415/pen/wvdqJqj" target = "_blank"><img class = "display-image" src="https://i.ibb.co/NTSgmrs/pl.jpg" alt="pl" border="0" /></a></p>

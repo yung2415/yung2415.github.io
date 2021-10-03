@@ -14,7 +14,7 @@ Below are Survey Form , Product Landing Page and Tribute page I created.
     <a href="https://codepen.io/yung2415/pen/WNjEwzv" target = "_blank"><img class = "display-image" src="https://i.ibb.co/BgmwwXj/Tp.jpg" alt="Tp" border="0" /></a>
     <a href="https://codepen.io/yung2415/pen/wvdqJqj" target = "_blank"><img class = "display-image" src="https://i.ibb.co/NTSgmrs/pl.jpg" alt="pl" border="0" /></a></p>
     
-## JavaScript projects
+## JavaScript projects😊
 
 Follow the tutorial from Scrimba, I made the following projects with simple JavaScript:
 A passenger counter app
